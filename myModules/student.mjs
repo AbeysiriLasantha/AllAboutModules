@@ -10,8 +10,8 @@ class Student {
 }
 
 // Sample data for demonstration
-const student1 = new Student('Alex', 35);
-const student2 = new Student('Carli', 25);
+export const student1 = new Student('Alex', 35);
+export const student2 = new Student('Carli', 25);
 
 // Display student information
 export  function displayStudent(){

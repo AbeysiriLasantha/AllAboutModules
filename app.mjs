@@ -9,6 +9,8 @@ import displayCourse from './myModules/course.mjs';
 
 // Create menu
 createMenu();
+student.student1;
+student.student2;
 
 //Add a div element to display the information
 const dislayInfo = document.createElement('div');
