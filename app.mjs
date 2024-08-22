@@ -9,6 +9,7 @@ import displayCourse from './myModules/course.mjs';
 
 // Create menu
 createMenu();
+// Create student objects
 student.student1;
 student.student2;
 
